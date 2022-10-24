@@ -1,0 +1,2 @@
+1. num1 and num2 passed into the calculateSum() function are of type string, therefore it only concatenates the two strings.
+2. Added parseInt to convert the strings into integers before calculating the sum of the two numbers.
